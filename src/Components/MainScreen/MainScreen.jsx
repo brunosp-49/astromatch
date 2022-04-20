@@ -7,6 +7,11 @@ useEffect(()=>{
     GetProfileToChoose()
 },[])
 
+useEffect(()=>{
+    GetProfileToChoose()
+},[]) 
+//didupdate
+
 const aluno = "bruno-siqueira-shaw"
 
 GetProfileToChoose = () => {
